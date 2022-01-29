@@ -1,5 +1,5 @@
 < Hello World >  🌎
-# Oii! Eu sou a Amanda França
+# Eu sou a Amanda França
 
 <div align="left">
   <a href="https://github.com/amandabfranca">
