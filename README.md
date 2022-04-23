@@ -1,4 +1,3 @@
-< Hello World >  🌎
 # Eu sou a Amanda França
 
 <div align="left">
